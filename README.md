@@ -11,3 +11,4 @@ To Do Django React Web Application
 ### Setting up the APIs
  1. install the djangorestframework and django-cors-headers using Pipenv and update the INSTALLED_APPS and MIDDLEWARE sections accordingly.
  2. Creating serializers for the Todo model.
+ 3. Creating the View.
