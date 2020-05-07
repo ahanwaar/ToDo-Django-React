@@ -23,4 +23,5 @@ To Do Django React Web Application
   5. Install a JavaScript library called axios to make requests to the API endpoints on the backend server.
   6. adding "proxy": "http://localhost:8000", to package.json file.
   7. modify app.js last time shortcut the axious sentences into "axios.get("/api/todos/")".
-  
+  8. Testing the backend and the fornt end servers.
+  9. DONE, let's Celebrate. xD
