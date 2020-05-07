@@ -16,3 +16,4 @@ To Do Django React Web Application
  5. Testing Backend.
 ### Setting up the frontend
 1. set a react app in the backent, then navigate to the parent folder and create react app called frontend.
+2. Editng index.css, import bootstrap into the index.js, Update the app.js and Testing frontend.
