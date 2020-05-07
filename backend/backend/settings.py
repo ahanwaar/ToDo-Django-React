@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'corsheaders' # added
+    'corsheaders', # added
     'rest_framework', # added
     'todo' # added
 ]
@@ -125,5 +125,5 @@ STATIC_URL = '/static/'
 
  # we whitelist localhost:3000 because that's where frontend will be served
 CORS_ORIGIN_WHITELIST = (
-    'localhost:3000/'
+    'http://localhost:3000',
 )
